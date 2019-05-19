@@ -1,6 +1,6 @@
 # Blushup-Page
 
-This is a programming assignment to create a React page for a blush-up wireframe.
+This is a programming assignment to create a React page for a wireframe provided by Blushup.
 
 ### Instructions to run the code:
 - Clone the repo.
